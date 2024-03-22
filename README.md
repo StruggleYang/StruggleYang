@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kevin Yang
-- 🏫 I majored in Computer and Big Data in college. 
-- 💻 Write a little front-end and love open source.
-- 💡 I hope I can make my own contribution to github
+<a href="https://github.com/StruggleYang">
+  <img align="left" height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=StruggleYang&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
+</a>
+
 
 <!---
 StruggleYang/StruggleYang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
