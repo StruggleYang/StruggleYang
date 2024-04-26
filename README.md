@@ -2,7 +2,8 @@
 A full-stack development engineer doing random interesting things.
 
 refs:
-https://nicenewtab.com
+https://nicenewtab.com  
+
 https://aiwith.me
 
 blog:
