@@ -7,7 +7,7 @@ https://nicenewtab.com
 https://aiwith.me
 
 blog:
-https://struy.cn
+https://AwesomeYang.com
 
 ## Code
 
