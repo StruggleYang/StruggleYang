@@ -2,10 +2,10 @@
 A full-stack development engineer doing random interesting things.
 
 My product:
-[AI With Me - Discover thousands of AI Tools](https://aiwith.me)
-[Nice New Tab](https://nicenewtab.com)
-[Nice Password - Free Online Password Generator](https://nicepasswd.com)
-[favicon.run - Website Favicon Fetcher & Favicon Converter](http://favicon.run/)
+- [AI With Me - Discover thousands of AI Tools](https://aiwith.me)  
+- [Nice New Tab](https://nicenewtab.com)  
+- [Nice Password - Free Online Password Generator](https://nicepasswd.com)  
+- [favicon.run - Website Favicon Fetcher & Favicon Converter](http://favicon.run/)  
 
 friends:
 [TI 84 Calculator Online](https://ti-84-calculator-online.com)
