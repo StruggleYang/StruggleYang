@@ -8,7 +8,7 @@ My product:
 - [favicon.run - Website Favicon Fetcher & Favicon Converter](http://favicon.run/)  
 
 friends:
-[TI 84 Calculator Online](https://ti-84-calculator-online.com)
+[TI 84 Calculator Online](https://ti84hub.com)
 
 my blog:
 https://AwesomeYang.com
