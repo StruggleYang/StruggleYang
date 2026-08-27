@@ -32,10 +32,7 @@ const awesomeYang = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/StruggleYang">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StruggleYang&layout=compact&langs_count=10&hide=html,javascript,css,freemarker&theme=radical&hide_border=true" alt="Top Langs"/>
-    <img height="180em" src="https://skillicons.dev/icons?i=ts,js,py,java,swift,angular,vue,nodejs,docker,git&perline=5" alt="Skills"/>
-  </a>
+  <img height="180em" src="https://skillicons.dev/icons?i=ts,js,py,java,swift,angular,vue,nodejs,docker,git&perline=5" alt="Skills"/>
 </div>
 
 ## 🚀 My Products
@@ -50,8 +47,11 @@ const awesomeYang = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=StruggleYang&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=22" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StruggleYang&theme=radical" alt="Profile Details"/>
   <img height="165em" src="https://streak-stats.demolab.com/?user=StruggleYang&theme=radical&hide_border=true&locale=en" alt="Streak Stats"/>
+  <br/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StruggleYang&theme=radical" alt="Repos per Language"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StruggleYang&theme=radical" alt="Productive Time"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -61,12 +61,6 @@ const awesomeYang = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StruggleYang/StruggleYang/output/github-contribution-grid-snake.svg"/>
   <img width="100%" src="https://raw.githubusercontent.com/StruggleYang/StruggleYang/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </picture>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=StruggleYang&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
-</div>
 
 ## ☕ Support Me
 
