@@ -44,6 +44,12 @@ const awesomeYang = {
 | 🔐 **[Nice Password](https://nicepasswd.com)** | Free online password generator |
 | 🎯 **[favicon.run](http://favicon.run/)** | Website favicon fetcher & converter |
 
+## 📌 Recent Projects
+
+| ⚡ [**PowerCumul**](https://github.com/StruggleYang/PowerCumul) | 📋 [**dsh-project-kanban**](https://github.com/StruggleYang/dsh-project-kanban) |
+|---|---|
+| ⚡ Lightweight macOS menu bar app to track cumulative power consumption of your Mac mini — pure software, native Swift, no hardware required. <br/><br/> ![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![](https://img.shields.io/github/stars/StruggleYang/PowerCumul?style=flat-square&logo=github&labelColor=333&color=blueviolet) | 📋 A kanban board inside DeepSeek Harness, integrated with the conversation — the agent writes planning cards while you talk, per-workspace boards persisted to disk. <br/><br/> ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/github/stars/StruggleYang/dsh-project-kanban?style=flat-square&logo=github&labelColor=333&color=blueviolet) |
+
 ## 📊 GitHub Stats
 
 <div align="center">
